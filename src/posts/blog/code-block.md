@@ -2,15 +2,11 @@
 title: "Code Highlight"
 category: "Code"
 date: "2020-02-01 12:00:00 +09:00"
-desc: "Test Markdown Code Highlight"
+desc: "Test Markdown Code High"
 thumbnail: "./images/code-block/thumbnail.jpg"
 alt: "code block graphic"
 ---
 
-## Using Plugin
-
-This starter kit uses the code highlight plugin [gatsby-remark-vscode](https://github.com/andrewbranch/gatsby-remark-vscode).
-Please refer to the link for more detailed instructions. It's a great plugin. 👍
 
 ## React JSX with line highlighting
 
